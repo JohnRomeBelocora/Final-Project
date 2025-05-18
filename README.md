@@ -23,6 +23,7 @@ This project implements a **two-stage anomaly detection and classification pipel
 
 ### Stage 1: Autoencoder-Based Anomaly Detection
 Autoencoder Repository: https://github.com/JemDeGuzman/Team_9_Autoencoder_Component
+
 Three different autoencoder models were trained on benign traffic only to detect anomalies based on reconstruction error:
 - **Simple Autoencoder**
 - **Variational Autoencoder (VAE)**
