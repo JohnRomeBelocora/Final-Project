@@ -1,5 +1,5 @@
 # Team_9_CNN_Component
-# Anomalous Packet Detection in Public WiFi Networks
+## Anomalous Packet Detection in Public WiFi Networks
 
 This repository contains the code and documentation for a two-stage deep learning system designed to detect and classify network anomalies in public WiFi environments. This work was completed as a final project for CPE 313 (Data Science) at the Technological Institute of the Philippines.
 
